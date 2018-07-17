@@ -1,0 +1,104 @@
+body  {
+    background-image: url("mubg.jpg");
+    background-color: darkred;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+.button1 {
+    background-color: lightgray;
+    border: 1px solid black;
+    color: red;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 250px;
+}
+.button1:hover {
+    background-color: darkgray
+}
+
+.button1:active {
+  background-color: black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button2 {
+    background-color: lightgray;
+    border: 1px solid black;
+    color: red;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 250px;
+}
+.button2:hover {
+    background-color: darkgray
+}
+
+.button2:active {
+  background-color: black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button3 {
+    background-color: lightgray;
+    border: 1px solid black;
+    color: red;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 250px;
+}
+.button3:hover {
+    background-color: darkgray
+}
+
+.button3:active {
+  background-color: black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button4 {
+    background-color: lightgray;
+    border: 1px solid black;
+    color: red;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 250px;
+}
+.button4:hover {
+    background-color: darkgray
+}
+
+.button4:active {
+  background-color: black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
